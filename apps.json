@@ -5,7 +5,7 @@
     "icon": "Icons/SUBWAYSURFERS.png",
     "version": "v3.50.0",
     "releaseDate": "2026-07-28",
-    "category": "Endless",
+    "category": "ENDLESS",
     "size": "200 MB",
     "license": "FREE",
     "tags": ["Open Source", "Offline-First", "Markdown"],
@@ -38,31 +38,12 @@
     }
   },
   {
-    "id": "pathfinder-maps",
-    "title": "Pathfinder Maps",
-    "icon": "Icons/pathfinder-maps.png",
-    "version": "v0.7.1",
-    "releaseDate": "2026-05-02",
-    "category": "Navigation",
-    "size": "64 MB",
-    "license": "Apache-2.0",
-    "tags": ["Open Source", "Offline Maps"],
-    "description": "Offline-capable maps and turn-by-turn navigation built on OpenStreetMap data, with no account or tracking required.",
-    "downloads": {
-      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
-      "primary": { "label": "Download", "url": "https://github.com/yourname/pathfinder-maps/releases/latest" },
-      "mirrors": [
-        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
-      ]
-    }
-  },
-  {
-    "id": "subway-surfers",
-    "title": "Subway Surfers",
-    "icon": "Icons/SUBWAYSURFERS.png",
+    "id": "bowmasters",
+    "title": "Bowmasters",
+    "icon": "Icons/BOWMASTERS.png",
     "version": "v3.50.0",
     "releaseDate": "2026-10-28",
-    "category": "Endless",
+    "category": "SHOOTER",
     "size": "200 MB",
     "license": "FREE",
     "tags": ["Open Source", "Offline-First", "Markdown"],
@@ -76,12 +57,50 @@
     }
   },
   {
-    "id": "subway-surfers",
-    "title": "Subway Surfers",
-    "icon": "Icons/SUBWAYSURFERS.png",
+    "id": "Beach-buggy-racing",
+    "title": "Beach Buggy Racing",
+    "icon": "Icons/BBR1.png",
+    "version": "v0.7.1",
+    "releaseDate": "2026-05-02",
+    "category": "RACING",
+    "size": "64 MB",
+    "license": "FREE",
+    "tags": ["MOD MENU", "VIP"],
+    "description": "Offline-capable maps and turn-by-turn navigation built on OpenStreetMap data, with no account or tracking required.",
+    "downloads": {
+      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
+      "primary": { "label": "Download", "url": "https://github.com/yourname/pathfinder-maps/releases/latest" },
+      "mirrors": [
+        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
+      ]
+    }
+  },
+  {
+    "id": "super-bear-adventure",
+    "title": "Super Bear Adventure",
+    "icon": "Icons/SUPERBEARADVENTURE.png",
+    "version": "v3.50.0",
+    "releaseDate": "2026-10-28",
+    "category": "SIMULATOR",
+    "size": "200 MB",
+    "license": "FREE",
+    "tags": ["Open Source", "Offline-First", "Markdown"],
+    "description": "A fast, distraction-free note-taking app with local-first storage, full Markdown support, and end-to-end encrypted sync.",
+    "downloads": {
+      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
+      "primary": { "label": "Download", "url": "https://github.com/yourname/nimbus-notes/releases/latest" },
+      "mirrors": [
+        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
+      ]
+    }
+  },
+  {
+    "id": "farg",
+    "title": "Frag Pro Shooter",
+    "icon": "Icons/FRAG.png",
     "version": "v3.50.0",
     "releaseDate": "2026-07-28",
-    "category": "Endless",
+    "category": "SHOOTER",
     "size": "200 MB",
     "license": "FREE",
     "tags": ["Open Source", "Offline-First", "Markdown"],
