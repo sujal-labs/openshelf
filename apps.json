@@ -40,7 +40,7 @@
    {
     "id": "zombie-catchers",
     "title": "Zombie Catchers",
-    "icon": "Icons/ZOMBIECATCHERS.png",
+    "icon": "Icons/ZOMBIECATCHERES.png",
     "version": "v2026.1.787",
     "releaseDate": "2026-08-02",
     "category": "STRATEGY",
@@ -97,7 +97,7 @@
    {
     "id": "granny",
     "title": "Granny",
-    "icon": "Icons/GRANNY.png",
+    "icon": "Icons/GRANNY1.png",
     "version": "v2026.1.787",
     "releaseDate": "2026-08-02",
     "category": "HORROR",
