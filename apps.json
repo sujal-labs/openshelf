@@ -1,0 +1,97 @@
+[
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "icon": "icons/SUBWAYSURFERS.png",
+    "version": "v3.50.0",
+    "releaseDate": "2026-07-28",
+    "category": "Endless",
+    "size": "200 MB",
+    "license": "FREE",
+    "tags": ["Open Source", "Offline-First", "Markdown"],
+    "description": "A fast, distraction-free note-taking app with local-first storage, full Markdown support, and end-to-end encrypted sync.",
+    "downloads": {
+      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
+      "primary": { "label": "Download", "url": "https://github.com/yourname/nimbus-notes/releases/latest" },
+      "mirrors": [
+        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
+      ]
+    }
+  },
+  {
+    "id": "waveform-player",
+    "title": "Waveform Player",
+    "icon": "icons/waveform-player.png",
+    "version": "v1.9.2",
+    "releaseDate": "2026-09-14",
+    "category": "Media",
+    "size": "31 MB",
+    "license": "GPL-3.0",
+    "tags": ["Open Source", "No Ads", "Gapless Playback"],
+    "description": "A lightweight audio player with gapless playback, a built-in equalizer, and support for FLAC, OGG, and MP3.",
+    "downloads": {
+      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
+      "primary": { "label": "Download", "url": "https://github.com/yourname/waveform-player/releases/latest" },
+      "mirrors": [
+        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
+      ]
+    }
+  },
+  {
+    "id": "pathfinder-maps",
+    "title": "Pathfinder Maps",
+    "icon": "icons/pathfinder-maps.png",
+    "version": "v0.7.1",
+    "releaseDate": "2026-05-02",
+    "category": "Navigation",
+    "size": "64 MB",
+    "license": "Apache-2.0",
+    "tags": ["Open Source", "Offline Maps"],
+    "description": "Offline-capable maps and turn-by-turn navigation built on OpenStreetMap data, with no account or tracking required.",
+    "downloads": {
+      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
+      "primary": { "label": "Download", "url": "https://github.com/yourname/pathfinder-maps/releases/latest" },
+      "mirrors": [
+        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
+      ]
+    }
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "icon": "icons/SUBWAYSURFERS.png",
+    "version": "v3.50.0",
+    "releaseDate": "2026-10-28",
+    "category": "Endless",
+    "size": "200 MB",
+    "license": "FREE",
+    "tags": ["Open Source", "Offline-First", "Markdown"],
+    "description": "A fast, distraction-free note-taking app with local-first storage, full Markdown support, and end-to-end encrypted sync.",
+    "downloads": {
+      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
+      "primary": { "label": "Download", "url": "https://github.com/yourname/nimbus-notes/releases/latest" },
+      "mirrors": [
+        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
+      ]
+    }
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "icon": "icons/SUBWAYSURFERS.png",
+    "version": "v3.50.0",
+    "releaseDate": "2026-07-28",
+    "category": "Endless",
+    "size": "200 MB",
+    "license": "FREE",
+    "tags": ["Open Source", "Offline-First", "Markdown"],
+    "description": "A fast, distraction-free note-taking app with local-first storage, full Markdown support, and end-to-end encrypted sync.",
+    "downloads": {
+      "tutorial": "https://youtu.be/dQw4w9WgXcQ",
+      "primary": { "label": "Download", "url": "https://github.com/yourname/nimbus-notes/releases/latest" },
+      "mirrors": [
+        { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
+      ]
+    }
+  }  
+]
