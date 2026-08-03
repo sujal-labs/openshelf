@@ -3,16 +3,16 @@
     "id": "subway-surfers",
     "title": "Subway Surfers",
     "icon": "Icons/SUBWAYSURFERS.png",
-    "version": "v3.50.0",
-    "releaseDate": "2025-07-28",
+    "version": "v3.67.0",
+    "releaseDate": "2026-08-03",
     "category": "ENDLESS",
-    "size": "200 MB",
+    "size": "235 MB",
     "license": "FREE",
-    "tags": ["Open Source", "Offline-First", "Markdown"],
-    "description": "A fast, distraction-free note-taking app with local-first storage, full Markdown support, and end-to-end encrypted sync.",
+    "tags": ["Mod Menu", "Unlimted", "No Ads"],
+    "description": "Classic vibrant endless runner where you dash down subway tracks, dodge oncoming trains, and escape the grumpy inspector using hoverboards and jetpacks.",
     "downloads": {
       "tutorial": "https://www.youtube.com/shorts/jG1cMbiJoOs",
-      "primary": { "label": "Download", "url": "https://github.com/yourname/nimbus-notes/releases/latest" },
+      "primary": { "label": "Download", "url": "https://gplinks.co/N6HXw" },
       "mirrors": [
         { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
       ]
