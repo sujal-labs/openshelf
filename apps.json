@@ -212,16 +212,16 @@
     "id": "frag",
     "title": "Frag Pro Shooter",
     "icon": "Icons/FRAG.png",
-    "version": "v3.50.0",
-    "releaseDate": "2025-07-28",
+    "version": "v5.3.0",
+    "releaseDate": "2026-08-03",
     "category": "SHOOTER",
-    "size": "200 MB",
+    "size": "220 MB",
     "license": "FREE",
-    "tags": ["Open Source", "Offline-First", "Markdown"],
-    "description": "A fast, distraction-free note-taking app with local-first storage, full Markdown support, and end-to-end encrypted sync.",
+    "tags": ["Mod Menu", "No Key", "Unlimted"],
+    "description": "Fast-paced 1v1 tactical hero shooter featuring real-time character switching, auto-fire battles, and strategic deck building.",
     "downloads": {
       "tutorial": "https://youtu.be/dQw4w9WgXcQ",
-      "primary": { "label": "Download", "url": "https://github.com/yourname/nimbus-notes/releases/latest" },
+      "primary": { "label": "Download", "url": "https://gplinks.co/wfScg" },
       "mirrors": [
         { "label": "Telegram", "url": "https://t.me/yourchannel", "type": "telegram" }
       ]
